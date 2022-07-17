@@ -1,0 +1,7 @@
+# Copiar e colar o comando abaixo no cmd
+
+/home/leonardo/artery/extern/veins/bin/veins_launchd -vv -c /usr/bin/sumo
+
+# ou
+
+/home/leonardo/artery/extern/veins/bin/veins_launchd -vv -c /usr/bin/sumo-gui
